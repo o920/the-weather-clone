@@ -7,7 +7,7 @@ import * as Location from 'expo-location';
 import { Alert, Platform } from 'react-native';
 import axios from "axios";
 
-const API_KEY = "c5ea4ac4c30c5a9f86d15f4f9ad3bb28";
+const API_KEY = "";
 
 export default class extends React.Component {
   state = {
